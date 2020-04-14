@@ -10741,19 +10741,19 @@ article.article .article-meta {
   margin-bottom: 0.5rem;
 }
 article.article .content {
-  font-size: 1.1rem;
+  font-size: 1.081rem;
 }
 article.article .content a {
   word-wrap: break-word;
 }
 article.article .content h1 {
-  font-size: 1.75em;
-}
-article.article .content h2 {
   font-size: 1.5em;
 }
+article.article .content h2 {
+  font-size: 1.35em;
+}
 article.article .content h3 {
-  font-size: 1.25em;
+  font-size: 1.2em;
 }
 article.article .content h4 {
   font-size: 1.125em;
@@ -10772,7 +10772,7 @@ article.article .content code {
 article.article .content blockquote.pullquote {
   float: right;
   max-width: 50%;
-  font-size: 1.15rem;
+  font-size: 1rem;
   position: relative;
 }
 article.article .content blockquote footer strong + cite {
