@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://rickyhohohey.github.io/"/>
-  <updated>2020-04-14T16:41:23.051Z</updated>
+  <updated>2020-04-14T16:43:54.040Z</updated>
   <id>http://rickyhohohey.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://rickyhohohey.github.io/2020/04/15/%E6%B5%8B%E8%AF%95%E9%82%AE%E4%BB%B6%E8%AE%A2%E9%98%85/"/>
     <id>http://rickyhohohey.github.io/2020/04/15/%E6%B5%8B%E8%AF%95%E9%82%AE%E4%BB%B6%E8%AE%A2%E9%98%85/</id>
     <published>2020-04-14T16:40:39.881Z</published>
-    <updated>2020-04-14T16:41:23.051Z</updated>
+    <updated>2020-04-14T16:43:54.040Z</updated>
     
-    <content type="html"><![CDATA[<p>测试内容。</p>]]></content>
+    <content type="html"><![CDATA[<p>测试内容。<br>测试新内容</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;测试内容。&lt;/p&gt;
+        &lt;p&gt;测试内容。&lt;br&gt;测试新内容&lt;/p&gt;
 
       
     
