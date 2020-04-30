@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://thelocker.site/about/index.html</loc>
+    
+    <lastmod>2020-04-30T01:57:08.393Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://thelocker.site/article/cd101159.html</loc>
     
-    <lastmod>2020-04-26T10:31:13.851Z</lastmod>
+    <lastmod>2020-04-30T01:52:10.397Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://thelocker.site/article/9ed4ec21.html</loc>
     
-    <lastmod>2020-04-26T10:30:12.873Z</lastmod>
+    <lastmod>2020-04-30T01:52:01.843Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://thelocker.site/article/3996d84f.html</loc>
     
-    <lastmod>2020-04-26T10:30:00.484Z</lastmod>
+    <lastmod>2020-04-30T01:51:24.418Z</lastmod>
     
   </url>
   
@@ -33,13 +40,6 @@
     <loc>https://thelocker.site/article/bb5c456d.html</loc>
     
     <lastmod>2020-04-25T15:31:44.469Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://thelocker.site/about/index.html</loc>
-    
-    <lastmod>2020-04-25T11:12:45.966Z</lastmod>
     
   </url>
   
