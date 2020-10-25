@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>伊坂幸太郎-伊坂幸太郎资讯访谈,伊坂幸太郎书单推荐</title>
+  <title>伊坂幸太郎-伊坂幸太郎书单,伊坂幸太郎资讯访谈</title>
   
-  
+  <subtitle>井坂好太郎的情报置物柜</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thelocker.site/"/>
